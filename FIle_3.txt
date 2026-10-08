@@ -1,0 +1,2 @@
+Learn the Git fundamentals and create the files.
+updated the git and authorize the server.
